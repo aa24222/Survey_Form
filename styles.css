@@ -1,0 +1,22 @@
+/* file: styles.css */
+body {
+  background-color: #45857D;
+  Font-family: sans-serif;
+}
+
+div {
+  background-color: #206963;
+  width: 80%;
+  max-width: 500px;
+  margin: auto;
+  padding: 7px 15px 1px 15px;
+  color: #ececec;
+}
+
+h1, p {
+  text-align: center;
+  margin: 1rem auto;
+  color: #9fd3c7;
+  Font-family: Copperplate;
+
+}
